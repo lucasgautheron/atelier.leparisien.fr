@@ -32,7 +32,6 @@ _Pas de proposition_
 
 ### Fiscalité - Evasion fiscale
 
- * Taxer les bénéfices des entreprises là où ils sont réalisés
  * Interdire aux banques françaises toute activité dans les paradis fiscaux sous peine de retrait de licence bancaire
  * Renforcer les moyens humains de l'administration fiscale et des douanes
 
@@ -127,7 +126,7 @@ _Pas de proposition_
 
 ### Fonction publique
 
- *  Revalorisation des salaires des fonction­naires, gelés depuis 2010  
+ *  Revalorisation des salaires des fonctionnaires, gelés depuis 2010  
  * Titulariser tous les précaires de la fonction publique
 
 
