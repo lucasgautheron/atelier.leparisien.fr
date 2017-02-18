@@ -2,23 +2,20 @@
 
 ### Fiscalite - TVA
 
- * Réduire la TVA sur les produits de première nécessité
+ * Réduire la TVA sur les produits de première nécessité et annuler les hausses récentes
+ * Réinstauration d'une TVA "grand luxe"
 
 
 
 ### Fiscalité - CSG
 
- * Rendre progressive la CSG
-
-
+ * Fusion de la CSG avec l'impôt sur le Revenu
 
 ### Fiscalité - Impôt sur le Revenu
 
  *  Rendre l'impôt sur le revenu universel et progressif avec la création de 14 tranches  
- *  Instaurer un revenu maximum autorisé: 100% d'impôt pour la tranche au  
- * dessus de 20 fois le revenu médian, soit 400000 euros de revenus annuels  
- *  Soumettre chaque citoyen français aux impôts français même s'il réside à l'étranger
-
+ *  Instaurer un revenu maximum autorisé: 100% d'impôt pour la tranche au-dessus de 20 fois le revenu médian, soit 400.000 euros de revenus annuels  
+ *  Soumettre chaque citoyen français à l'impôt, y compris ceux résidants à l'étranger, en instaurant une taxation différentielle.
 
 
 ### Fiscalité - Niches fiscales
@@ -29,7 +26,7 @@ _Pas de proposition_
 
 ### Fiscalité - Fiscalité du Patrimoine
 
- * Augmenter les droits de succession sur les gros patri­moines et créer un héritage maximum pour les grosses fortunes
+ * Augmenter les droits de succession sur les gros patrimoines et créer un héritage maximum pour les grosses fortunes
 
 
 
