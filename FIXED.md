@@ -26,13 +26,15 @@ _Pas de proposition_
 
 ### Fiscalité - Fiscalité du Patrimoine
 
- * Augmenter les droits de succession sur les gros patrimoines et créer un héritage maximum pour les grosses fortunes
+ * Augmenter les droits de succession sur les gros patrimoines et créer un héritage maximum pour les grosses fortunes (des 0,01 % les plus riches)
 
 
 
 ### Fiscalité - Evasion fiscale
 
-_Pas de proposition_
+ * Taxer les bénéfices des entreprises là où ils sont réalisés
+ * Interdire aux banques françaises toute activité dans les paradis fiscaux sous peine de retrait de licence bancaire
+ * Renforcer les moyens humains de l'administration fiscale et des douanes
 
 
 
