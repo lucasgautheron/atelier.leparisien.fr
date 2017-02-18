@@ -8,3 +8,5 @@ Nous cherchons à faciliter le travail des journalistes en le complétant, puis 
  * Éditer "FIXED.md"
  * Faire une pull request. Créer une branche avec le nom du chapitre.
  
+# Liens utiles
+ * https://laec.fr/ - Le programme l'Avenir en Commun
