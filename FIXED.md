@@ -70,16 +70,16 @@ _Pas de proposition_
 
  * Déclarer le burn out comme maladie professionnelle  
  * Renforcer la médecine du travail
+ * Faire du nombre d'accidents de travail un critère dans l'accès aux marchés publics
 
 
 
 ### Travail - Revenu
 
  *  Augmenter le smic net mensuel de 16% pour le porter à 1326 euros net  
- *  Fixer un salaire maximum autorisé pour limiter l'écart de 1à 20 entre le salaire le plus bas et le salaire le plus haut dans une entreprise  
+ *  Fixer un salaire maximum autorisé pour limiter l'écart de 1 à 20 entre le salaire le plus bas et le salaire le plus haut dans une entreprise  
  *  Interdire les parachutes dorés et les retraites chapeaux  
- *  Supprimer les stock  
- * options
+ *  Supprimer les stock-options
 
 
 
@@ -100,29 +100,28 @@ _Pas de proposition_
 ### Travail - Protection sociale
 
  * Garantir la continuité du revenu en cas de perte d'emploi, dans le cadre d'une Sécurité sociale professionnelle
-
-
+ * Instaurer un "droit opposable à l'emploi" en faisant de l'État l'employeur en dernier ressort pour des chômeurs de longue durée.
 
 ### Travail - Services publics
 
-_Pas de proposition_
+ * Refonder le service public de l'emploi en identifiants clairement chacune des missions (conseil et accompagnement, indemnisation, orientation et formation professionnelle)
 
 
 
 ### Travail - Ubérisation
 
+ * Faciliter la requalification en contrat de travail salarié des auto-entrepreneurs ) client unique et des collaborateurs exclusifs des plateformes dites collaboratives comme Uber.
 
 ### Travail - Autres
 
  *  Instaurer un plafond de contrats précaires dans les entreprises : maximum 10% dans les PME, maximum 5% dans les grandes entreprises
 
 
-
 ### Retraite
 
  *  Retraite à 60 ans  
  *  Revaloriser les pensions de retraite au niveau du smic pour une carrière complète et minimum vieillesse porté au niveau du smic  
- *  mise à contribution des revenus financiers des entre­prises
+ *  mise à contribution des revenus financiers des entreprises
 
 
 
