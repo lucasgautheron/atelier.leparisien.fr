@@ -436,6 +436,8 @@ _Pas de proposition_
 
 ### Grands principes
 
+ * Ajouter la règle verte dans la constitution : ne pas prélever sur la nature davantage que ce qu'elle peut reconstituer ni produire plus que ce qu'elle peut supporter
+ * Adopter une loi-cadre instaurant une planification écologique, démocratique et articulant les niveaux national et local
  *  Construire un statut international pour l'Arctique  
  *  Créer un crime international d'écocide (atteinte grave à l'environnement)
 
@@ -452,8 +454,9 @@ _Pas de proposition_
 
 ### Energie - Nucléaire
 
-
- *  Sortir du nucléaire : fermer Fessenheim, abandonner les projets d'EPR et d'enfouissement des déchets à Bure
+ * Sortie complète d'ici 2050
+ * Fermer immédiatement Fessenheim en garantissant l'emploi des salariés et leur formation pour en faire un site pilote du démentèlement
+ * Abandonner les projets d'EPR et d'enfouissement des déchets à Bure
 
 
 
@@ -464,14 +467,16 @@ _Pas de proposition_
 
 
 ### Energie - Gaz de schiste
+ * Sortir des énergies carbonées en commençant par l'arrêt des subventions aux énergies fossiles et de toute exploration de gaz et pétrole de schiste et de houille
 
 
 ### Energie - Autres
 
+ * 100% d'énergies renouvelables en 2050
  *  Développer les énergies marines renouvelables  
- *  Plan d'autonomie énergétique de chaque territoire d'Outre  
- * Mer à partir des énergies renouvelables disponibles, terrestres et marines  
- *  Revenir sur la libéralisation du marché de l'électricité
+ *  Plan d'autonomie énergétique de chaque territoire d'Outre-Mer à partir des énergies renouvelables disponibles, terrestres et marines  
+ *  Revenir sur la libéralisation du marché de l'électricité et stopper la privatisation des barrages hydroélectriques
+ *  Créer un pôle public de l'énergie en renationalisant EDF et Engie (ex-GDF)
 
 
 
@@ -485,12 +490,12 @@ _Pas de proposition_
 
  *  Plan de développement du ferroutage  
  *  Revenir sur la loi Macron et ses liaisons autocar  
+ * Bloquer la mise en concurrence des TER
  *  Introduire une contribution carbone sur le transport de marchandises  
  *  Renationaliser les autoroutes  
- *  Arrêt des grands projets comme Notre  
- * Dame  
- * des  
- * Landes
+ *  Arrêt des grands projets comme Notre-Dame-des-Landes
+ * Développer les usages partagés de la voiture et les mobilités douces comme le vélo
+ * Développer les véhicules électriques pour les flottes captives
 
 
 
