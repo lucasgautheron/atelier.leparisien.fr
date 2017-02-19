@@ -151,38 +151,52 @@ _Pas de proposition_
 
 ### Entreprises - Gestion
 
- *  Créer un fond de solidarité interentreprises pour mutualiser la contribution sociales entre toutes les entreprises.  
+ *  Créer un fond de solidarité interentreprises pour mutualiser la contribution sociales entre toutes les entreprises et soulager les PME.  
  *  Créer un pôle public bancaire pour financer les entreprises
+ * Interdire le versement de dividendes dans les entreprises ayant recours à des licenciements économiques
+ * Accorder un droit de veto suspensif aux comités d'entreprise sur les plans de licenciements
+ * Réformer les tribunaux de commerce et les procédures de redressement et liquidation d'entreprise pour donner plus de pouvoirs aux salariés et à leurs représentants
+ * Empêcher les licenciements économiques d'être effectifs avant épuisement des recours judiciaires..
+ * Refonder le recours à la rupture conventionnelle pour empêcher les licenciements déguisés
 
 
 
 ### Entreprises - PME
 
-
-_Pas de proposition_
-
+ * Financer l'escompte des PME à taux zéro par le pôle financier public
+ * Augmenter les effectifs de l'inspection du travail afin d'améliorer l'assistance juridique aux PME
 
 
 ### Entreprises - Autres
 
  * Revenir sur les programmes de privatisation  
- * Nationaliser les chantiers STX de Saint  
- * Nazaire  
+ * Nationaliser les chantiers STX de Saint-Nazaire
  * Rendre effectif le droit de réquisition des entreprises d'intérêt général par l'Etat  
  * Reconnaître un droit de préemption aux salariés pour former une coopérative en cas de fermeture ou de vente de leur entreprise
+ * Encadrer la sous-traitance et étendre la responsabilité juridique, sociale et écologique des donneurs d'ordre
 
 
 
 ### Finance
 
-_Pas de proposition_
+ * Mettre fin à la cotation continue des entreprises en Bourse
+ * Accorder une licence bancaire à la Banque publique d'investissement dans son ensemble (groupe Bpifrance) pour lui permettre de se financer auprès de la Banque centrale
+ * Augmenter la mise en réserve légale obligeant les entreprises à conserver une part de leur résultat plutôt que de le distribuer entièrement en dividendes
+ * Interdire aux entreprises de distribuer un montant de dividendes supérieur à leur bénéfice et donc d'emprunter pour distribuer des dividendes
+ * Limiter les LBO aux seules procédures de reprise des entreprises par les salariés (Leveraged Buy Out, mécanisme financier permettant aujourd'hui à quelques actionnaires de faire main basse sur une entreprise)
+ * Moduler les droits de vote des actionnaires selon la durée d'engagement dans l'entreprise en réservant le droit de vote aux actionnaires acceptant de s'engager sur une durée de présence
 
+ 
 
 
 ### Commerce
 
-_Pas de proposition_
-
+ * Adopter des mesures anti-dumping d'urgence sur les industries stratégiques (acier, photovoltaïque…)
+ * Imposer le respect de normes sociales et écologiques pour la commercialisation des produits importés en France
+ * Augmenter les droits de douane pour les pays aux droits sociaux limités
+ * Intégrer le respect des règles fondamentales de l'Organisation internationale du travail dans les accords commerciaux
+ * Sortir de l'Organisation mondiale du commerce et renforcer la Cnuced comme organe légitime pour organiser le commerce mondial
+ * Soutenir l'adoption à l'Onu d'un cadre réglementaire contraignant les multinationales à respecter un socle de normes sociales et environnementales
 
 
 ### Lutte contre la pauvreté
@@ -190,30 +204,33 @@ _Pas de proposition_
  *  Plan personnalisé contre la pauvreté (PPP)  
  *  Création d'une «garantie dignité» en revalorisant les minima sociaux (aucun niveau de vie en dessous du seuil de pauvreté)  
  *  Restructurer les emprunts des ménages surendettés et garantir à tous l'accès effectif aux services bancaires de base  
- *  Atteindre l'objectif de zéro sans  
- * abri
+ *  Atteindre l'objectif de zéro sans-abri
+ *  Lutter contre le non-recours aux droits sociaux et civiques par la simplification des démarches et des critères, et le retrait de contreparties pour l'attribution du RSA
 
 
 
 ### Agriculture
 
- *  créer 300000 emplois agricoles  
- *  stopper les projets de fermes utiles  
+ *  Créer 300.000 emplois agricoles  
+ *  Stopper les projets de fermes usines
  *  généraliser les fermes pédagogiques  
- *  développer le bio
+ * Favoriser les circuits courts, la vente directe, la transformation sur place
+ * Plafonner les marges de la grande distribution par un coefficient multiplicateur limité pour garantir des prix rémunérateurs aux producteurs
+ *  Développer l'agriculture biologique et la polyculture
 
 
 
 ### Pêche
 
-_Pas de proposition_
+ * Développer la pêche artisanale, refuser la marchandisation de la politique commune des pêches au niveau européen, appliquer les quotas pluriannuels pour donner de la visibilité aux pêcheurs et gérer durablement la ressource, mettre fin au chalutage en eau profonde
+ * Mettre en place un mécanisme d'aide au renouvellement de la flotte (de commerce, de pêche, de plaisance) pour les navires de plus de trente ans, démantelés en France et remplacés par des navires construits en France avec des procédés et matériaux écologiques
 
 
 
 ### Infrastructures
 
- *  Expropriation des grands groupes bancaires et financiers de l’énergie, de l’agro  
- * industrie, de la distribution… et la création de services publics décentralisés sous le contrôle et la gestion des travailleurs et des usagers.
+ *  Expropriation des grands groupes bancaires et financiers de l’énergie, de l’agro-industrie, de la distribution… et la création de services publics décentralisés sous le contrôle et la gestion des travailleurs et des usagers.
+ * Relancer les ports français et moderniser les infrastructures portuaires
 
 
 
