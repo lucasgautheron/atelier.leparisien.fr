@@ -5,7 +5,7 @@ Nous cherchons à faciliter le travail des journalistes en le complétant, puis 
 # Contribuer
 
  * Choisir un chapitre à corriger parmis https://github.com/lucasgautheron/atelier.leparisien.fr/issues
- * Éditer "FIXED.md"
+ * Éditer "FIXED.md" en rajoutant les propositions manquantes ou en rajoutant les fautes. Attention : on ne peut pas ajouter de catégories (# et ##)
  * Faire une pull request. Créer une branche avec le nom du chapitre.
  
 # Liens utiles
