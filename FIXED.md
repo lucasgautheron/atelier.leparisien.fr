@@ -20,7 +20,7 @@
 
 ### Fiscalité - Niches fiscales
 
-_Pas de proposition_
+ * Évaluer chacune des niches fiscales et supprimer les niches injustes, inefficaces socialement ou nuisibles écologiquement
 
 
 
