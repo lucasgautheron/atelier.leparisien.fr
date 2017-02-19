@@ -590,6 +590,7 @@ _Pas de proposition_
 ### Institutions
 
  *  Rendre inéligible à vie toute personne condamnée pour corruption  
+ * Appliquer les recommandations d'Anticor et de Transparency International contre la corruption (comme la suppression de la réserve parlementaire et la publication du patrimoine des élus)
  *  Obliger tout haut fonctionnaire souhaitant travailler dans le privé à démissionner de la fonction publique et l'obliger à rembourser le prix de sa formation s'il n'a pas servi au moins 10 ans  
  *  Fonder la représentativité des organisations patronales sur la base d'élections (comme c'est le cas pour les syndicats de salariés)  
  *  Non cumul des mandats, y compris dans le temps  
@@ -627,7 +628,7 @@ _Pas de proposition_
 
 ### Constitution
 
- *  Projet de constitution élaboré par l'assemblée constituante soumis à référendum
+ *  Projet de constitution élaboré par l'assemblée constituante et soumis à référendum
 
 
 
