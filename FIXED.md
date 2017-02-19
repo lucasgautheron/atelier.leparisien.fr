@@ -444,7 +444,8 @@ _Pas de proposition_
 
 
 ### OGM
-
+ * Refuser la brevetabilité du vivant à tous les niveaux, lutter contre la biopiraterie
+ * Refuser les OGM
 
 ### Climat - Accord de Paris
 
@@ -482,8 +483,10 @@ _Pas de proposition_
 
 ### Gaspillage
 
- *  Rendre obligatoire le recyclage, le compostage ou l'incinération
-
+ * Rendre obligatoire le recyclage, le compostage ou l'incinération
+ * Développer les filières scolaires et universitaires professionnelles dans le secteur de la réutilisation des matériaux
+ * Allongement des durées de garanties légales des produits pour combattre l'obsolescence programmée
+ * Instaurer une tarification progressive sur l'eau et l'énergie incluant la gratuité des quantités indispensables à une vie digne et pénalisant les mésusages et les gaspillages
 
 
 ### Transports
@@ -501,8 +504,8 @@ _Pas de proposition_
 
 ### Habitat
 
- *  Isolation d'au moins 700 000 logements par an
-
+ * Isolation d'au moins 700 000 logements par an
+ * Mettre en place un guichet unique regroupant les demandes de financement, l'évaluation des besoins, la coordination des professionnels nécessaires pour organiser la rénovation par les propriétaires individuels
 
 
 ### Investissements
