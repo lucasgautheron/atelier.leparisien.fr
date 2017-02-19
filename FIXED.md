@@ -2,23 +2,20 @@
 
 ### Fiscalite - TVA
 
- * Réduire la TVA sur les produits de première nécessité
+ * Réduire la TVA sur les produits de première nécessité et annuler les hausses récentes
+ * Réinstauration d'une TVA "grand luxe"
 
 
 
 ### Fiscalité - CSG
 
- * Rendre progressive la CSG
-
-
+ * Fusion de la CSG avec l'impôt sur le Revenu
 
 ### Fiscalité - Impôt sur le Revenu
 
  *  Rendre l'impôt sur le revenu universel et progressif avec la création de 14 tranches  
- *  Instaurer un revenu maximum autorisé: 100% d'impôt pour la tranche au  
- * dessus de 20 fois le revenu médian, soit 400000 euros de revenus annuels  
- *  Soumettre chaque citoyen français aux impôts français même s'il réside à l'étranger
-
+ *  Instaurer un revenu maximum autorisé: 100% d'impôt pour la tranche au-dessus de 20 fois le revenu médian, soit 400.000 euros de revenus annuels  
+ *  Soumettre chaque citoyen français à l'impôt, y compris ceux résidants à l'étranger, en instaurant une taxation différentielle.
 
 
 ### Fiscalité - Niches fiscales
@@ -29,13 +26,14 @@ _Pas de proposition_
 
 ### Fiscalité - Fiscalité du Patrimoine
 
- * Augmenter les droits de succession sur les gros patri­moines et créer un héritage maximum pour les grosses fortunes
+ * Augmenter les droits de succession sur les gros patrimoines et créer un héritage maximum pour les grosses fortunes (des 0,01 % les plus riches)
 
 
 
 ### Fiscalité - Evasion fiscale
 
-_Pas de proposition_
+ * Interdire aux banques françaises toute activité dans les paradis fiscaux sous peine de retrait de licence bancaire
+ * Renforcer les moyens humains de l'administration fiscale et des douanes
 
 
 
@@ -71,16 +69,16 @@ _Pas de proposition_
 
  * Déclarer le burn out comme maladie professionnelle  
  * Renforcer la médecine du travail
+ * Faire du nombre d'accidents de travail un critère dans l'accès aux marchés publics
 
 
 
 ### Travail - Revenu
 
  *  Augmenter le smic net mensuel de 16% pour le porter à 1326 euros net  
- *  Fixer un salaire maximum autorisé pour limiter l'écart de 1à 20 entre le salaire le plus bas et le salaire le plus haut dans une entreprise  
+ *  Fixer un salaire maximum autorisé pour limiter l'écart de 1 à 20 entre le salaire le plus bas et le salaire le plus haut dans une entreprise  
  *  Interdire les parachutes dorés et les retraites chapeaux  
- *  Supprimer les stock  
- * options
+ *  Supprimer les stock-options
 
 
 
@@ -101,35 +99,34 @@ _Pas de proposition_
 ### Travail - Protection sociale
 
  * Garantir la continuité du revenu en cas de perte d'emploi, dans le cadre d'une Sécurité sociale professionnelle
-
-
+ * Instaurer un "droit opposable à l'emploi" en faisant de l'État l'employeur en dernier ressort pour des chômeurs de longue durée.
 
 ### Travail - Services publics
 
-_Pas de proposition_
+ * Refonder le service public de l'emploi en identifiants clairement chacune des missions (conseil et accompagnement, indemnisation, orientation et formation professionnelle)
 
 
 
 ### Travail - Ubérisation
 
+ * Faciliter la requalification en contrat de travail salarié des auto-entrepreneurs ) client unique et des collaborateurs exclusifs des plateformes dites collaboratives comme Uber.
 
 ### Travail - Autres
 
  *  Instaurer un plafond de contrats précaires dans les entreprises : maximum 10% dans les PME, maximum 5% dans les grandes entreprises
 
 
-
 ### Retraite
 
  *  Retraite à 60 ans  
  *  Revaloriser les pensions de retraite au niveau du smic pour une carrière complète et minimum vieillesse porté au niveau du smic  
- *  mise à contribution des revenus financiers des entre­prises
+ *  mise à contribution des revenus financiers des entreprises
 
 
 
 ### Fonction publique
 
- *  Revalorisation des salaires des fonction­naires, gelés depuis 2010  
+ *  Revalorisation des salaires des fonctionnaires, gelés depuis 2010  
  * Titulariser tous les précaires de la fonction publique
 
 
@@ -154,38 +151,52 @@ _Pas de proposition_
 
 ### Entreprises - Gestion
 
- *  Créer un fond de solidarité interentreprises pour mutualiser la contribution sociales entre toutes les entreprises.  
+ *  Créer un fond de solidarité interentreprises pour mutualiser la contribution sociales entre toutes les entreprises et soulager les PME.  
  *  Créer un pôle public bancaire pour financer les entreprises
+ * Interdire le versement de dividendes dans les entreprises ayant recours à des licenciements économiques
+ * Accorder un droit de veto suspensif aux comités d'entreprise sur les plans de licenciements
+ * Réformer les tribunaux de commerce et les procédures de redressement et liquidation d'entreprise pour donner plus de pouvoirs aux salariés et à leurs représentants
+ * Empêcher les licenciements économiques d'être effectifs avant épuisement des recours judiciaires..
+ * Refonder le recours à la rupture conventionnelle pour empêcher les licenciements déguisés
 
 
 
 ### Entreprises - PME
 
-
-_Pas de proposition_
-
+ * Financer l'escompte des PME à taux zéro par le pôle financier public
+ * Augmenter les effectifs de l'inspection du travail afin d'améliorer l'assistance juridique aux PME
 
 
 ### Entreprises - Autres
 
  * Revenir sur les programmes de privatisation  
- * Nationaliser les chantiers STX de Saint  
- * Nazaire  
+ * Nationaliser les chantiers STX de Saint-Nazaire
  * Rendre effectif le droit de réquisition des entreprises d'intérêt général par l'Etat  
  * Reconnaître un droit de préemption aux salariés pour former une coopérative en cas de fermeture ou de vente de leur entreprise
+ * Encadrer la sous-traitance et étendre la responsabilité juridique, sociale et écologique des donneurs d'ordre
 
 
 
 ### Finance
 
-_Pas de proposition_
+ * Mettre fin à la cotation continue des entreprises en Bourse
+ * Accorder une licence bancaire à la Banque publique d'investissement dans son ensemble (groupe Bpifrance) pour lui permettre de se financer auprès de la Banque centrale
+ * Augmenter la mise en réserve légale obligeant les entreprises à conserver une part de leur résultat plutôt que de le distribuer entièrement en dividendes
+ * Interdire aux entreprises de distribuer un montant de dividendes supérieur à leur bénéfice et donc d'emprunter pour distribuer des dividendes
+ * Limiter les LBO aux seules procédures de reprise des entreprises par les salariés (Leveraged Buy Out, mécanisme financier permettant aujourd'hui à quelques actionnaires de faire main basse sur une entreprise)
+ * Moduler les droits de vote des actionnaires selon la durée d'engagement dans l'entreprise en réservant le droit de vote aux actionnaires acceptant de s'engager sur une durée de présence
 
+ 
 
 
 ### Commerce
 
-_Pas de proposition_
-
+ * Adopter des mesures anti-dumping d'urgence sur les industries stratégiques (acier, photovoltaïque…)
+ * Imposer le respect de normes sociales et écologiques pour la commercialisation des produits importés en France
+ * Augmenter les droits de douane pour les pays aux droits sociaux limités
+ * Intégrer le respect des règles fondamentales de l'Organisation internationale du travail dans les accords commerciaux
+ * Sortir de l'Organisation mondiale du commerce et renforcer la Cnuced comme organe légitime pour organiser le commerce mondial
+ * Soutenir l'adoption à l'Onu d'un cadre réglementaire contraignant les multinationales à respecter un socle de normes sociales et environnementales
 
 
 ### Lutte contre la pauvreté
@@ -193,30 +204,33 @@ _Pas de proposition_
  *  Plan personnalisé contre la pauvreté (PPP)  
  *  Création d'une «garantie dignité» en revalorisant les minima sociaux (aucun niveau de vie en dessous du seuil de pauvreté)  
  *  Restructurer les emprunts des ménages surendettés et garantir à tous l'accès effectif aux services bancaires de base  
- *  Atteindre l'objectif de zéro sans  
- * abri
+ *  Atteindre l'objectif de zéro sans-abri
+ *  Lutter contre le non-recours aux droits sociaux et civiques par la simplification des démarches et des critères, et le retrait de contreparties pour l'attribution du RSA
 
 
 
 ### Agriculture
 
- *  créer 300000 emplois agricoles  
- *  stopper les projets de fermes utiles  
+ *  Créer 300.000 emplois agricoles  
+ *  Stopper les projets de fermes usines
  *  généraliser les fermes pédagogiques  
- *  développer le bio
+ * Favoriser les circuits courts, la vente directe, la transformation sur place
+ * Plafonner les marges de la grande distribution par un coefficient multiplicateur limité pour garantir des prix rémunérateurs aux producteurs
+ *  Développer l'agriculture biologique et la polyculture
 
 
 
 ### Pêche
 
-_Pas de proposition_
+ * Développer la pêche artisanale, refuser la marchandisation de la politique commune des pêches au niveau européen, appliquer les quotas pluriannuels pour donner de la visibilité aux pêcheurs et gérer durablement la ressource, mettre fin au chalutage en eau profonde
+ * Mettre en place un mécanisme d'aide au renouvellement de la flotte (de commerce, de pêche, de plaisance) pour les navires de plus de trente ans, démantelés en France et remplacés par des navires construits en France avec des procédés et matériaux écologiques
 
 
 
 ### Infrastructures
 
- *  Expropriation des grands groupes bancaires et financiers de l’énergie, de l’agro  
- * industrie, de la distribution… et la création de services publics décentralisés sous le contrôle et la gestion des travailleurs et des usagers.
+ *  Expropriation des grands groupes bancaires et financiers de l’énergie, de l’agro-industrie, de la distribution… et la création de services publics décentralisés sous le contrôle et la gestion des travailleurs et des usagers.
+ * Relancer les ports français et moderniser les infrastructures portuaires
 
 
 
